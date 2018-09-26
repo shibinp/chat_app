@@ -1,0 +1,19 @@
+current directory: /home/shibin/study_rails_projects/chat_app/vendor/bundle/ruby/2.3.0/gems/byebug-9.1.0/ext/byebug
+/home/shibin/.rvm/rubies/ruby-2.3.1/bin/ruby -r ./siteconf20180926-23190-190sezn.rb extconf.rb
+creating Makefile
+
+current directory: /home/shibin/study_rails_projects/chat_app/vendor/bundle/ruby/2.3.0/gems/byebug-9.1.0/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /home/shibin/study_rails_projects/chat_app/vendor/bundle/ruby/2.3.0/gems/byebug-9.1.0/ext/byebug
+make "DESTDIR="
+compiling byebug.c
+compiling context.c
+compiling breakpoint.c
+compiling threads.c
+compiling locker.c
+linking shared-object byebug/byebug.so
+
+current directory: /home/shibin/study_rails_projects/chat_app/vendor/bundle/ruby/2.3.0/gems/byebug-9.1.0/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -m 0755 byebug.so ./.gem.20180926-23190-1ty5u32/byebug

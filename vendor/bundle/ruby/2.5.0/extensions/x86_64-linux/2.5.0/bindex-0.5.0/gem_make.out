@@ -1,0 +1,15 @@
+current directory: /home/shibin/study_rails_projects/chat_app/vendor/bundle/ruby/2.5.0/gems/bindex-0.5.0/ext/bindex
+/home/administrator/.rvm/rubies/ruby-2.5.1/bin/ruby -r ./siteconf20180926-31125-1z0xguf.rb extconf.rb
+creating Makefile
+
+current directory: /home/shibin/study_rails_projects/chat_app/vendor/bundle/ruby/2.5.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" clean
+
+current directory: /home/shibin/study_rails_projects/chat_app/vendor/bundle/ruby/2.5.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR="
+compiling cruby.c
+linking shared-object bindex/cruby.so
+
+current directory: /home/shibin/study_rails_projects/chat_app/vendor/bundle/ruby/2.5.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" install
+/usr/bin/install -m 0755 cruby.so ./.gem.20180926-31125-jad7hf/bindex
